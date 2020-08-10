@@ -1,6 +1,6 @@
 {
-  "homepage": "http://amviillanueva.github.io/angelika",
-  "name": "angelika",
+  "homepage": "http://kanup4m.github.io/resume",
+  "name": "Anupam",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,6 +17,7 @@
     "react-particles-js": "^3.2.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
+    "save-dev": "0.0.1-security",
     "styled-components": "^5.1.1"
   },
   "scripts": {
