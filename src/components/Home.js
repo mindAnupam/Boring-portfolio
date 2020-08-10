@@ -2,7 +2,7 @@ import React from 'react';
 import { Theme, Div, H1, Sub, Img } from './style';
 import ContactInfo from './ContactInfo';
 import contacts from './info/contacts';
-import image from '../assets/images/Anupam.pnggit'
+import image from '../assets/images/Anupam.png'
 
 function Home() {
   return (
