@@ -1,20 +1,20 @@
 const achievements = [
   {
     id: 3,
-    title: 'Computer Programming Skills Competition - 2018',
-    description: ['3rd Place - held at PUP-ITech'],
+    title: 'Frontend developer at Nibble Computer Society.',
+    description: ['JSS official computer society'],
   },
   {
     id: 2,
-    title: 'Outstanding Award in Innovation - 2018',
+    title: 'Secured 8th position in the Innovaccer Hackathon.',
     description: [
-      'Grade 12 research : Grading System for Senior High School Students in SCAS',
+      'For my project "InStories"',
     ],
   },
   {
     id: 1,
-    title: 'Festival of Talents - 2015',
-    description: ['Participant - held at Antipolo National High School'],
+    title: 'Completed Assassian Creed Odyessy in less than 53 hour',
+    description: ["It's average playtime is 65 hour"],
   },
 ];
 

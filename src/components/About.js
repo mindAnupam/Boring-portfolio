@@ -2,6 +2,7 @@ import React from 'react';
 import { Theme, Div, H4, Hr } from './style';
 import AboutContent from './AboutContent';
 import education from './info/education';
+import achievements from './info/achievements'
 import experiences from './info/experiences';
 
 function About() {
@@ -29,14 +30,14 @@ function About() {
         ))}
 
         <Hr className="my-3" />
-        <H4 className="mt-4">RELEVANT EXPERIENCES</H4>
-        {/* {achievements.map((achievement) => (
+        <H4 className="mt-4">ACHIEVEMENTS</H4>
+        {achievements.map((achievement) => (
           <AboutContent
             key={achievement.id}
             title={achievement.title}
             description={achievement.description}
           />
-        ))} */}
+        ))}
       </Div>
     </Theme>
   );
